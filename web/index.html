@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Choropleth Map</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <div id="controls">
+        <label for="yearSelect">Select Year:</label>
+        <select id="yearSelect"></select>
+
+    </div>
+
+    <!-- FIRST PART -->
+    <h1 class="title">Choropleth</h1>
+    <div id="loading-chord">
+        <img src="media/loading-spinner.gif" alt="Loading...">
+    </div>
+    <div id="chord"></div>
+    <div id="tooltip"></div>
+
+    <!-- SECOND PART -->
+    <h1 class="title">Time Series Plot</h1>
+    <div id="chart_param">
+        <div id="chord_starting_neighbour_id">NaN</div>
+        <div id="chord_ending_neighbour_id">NaN</div>
+        <div id="chord_starting_borough_name">NaN</div>
+    </div>
+    <div id="loading-day">
+        <img src="media/loading-spinner.gif" alt="Loading...">
+    </div>
+    <div id="chart"></div>
+
+
+    <!-- THIRD PART : MAP -->
+    <h1 class="title">Borough Map Of New York</h1>
+    <div id="map"></div>
+
+    <!-- FOURTH PART : TRAFFIC -->
+    <h1 class="title">TRAFFIC ANALYSIS</h1>
+    <div id="radial-chart"></div>
+    <div id="bar-chart"></div>
+
+    <!-- IMPORTS SCRIPTS -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="map.js"></script>
+    <script type="module">
+        import { constructChord, showLoadingChord, hideLoadingChord } from './chord.js';
+        import { plotDayData, showLoadingDay, hideLoadingDay} from './linechart.js';
+        import { createRadialChart } from './radialchart.js';
+        import { createChart } from './barchart.js';
+
+        const yearSelect = document.getElementById('yearSelect');
+        const chordStartingNeighbourIdDiv = document.getElementById('chord_starting_neighbour_id');
+        const chordEndingNeighbourIdDiv = document.getElementById('chord_ending_neighbour_id');
+        const chordStartingBoroughNameDiv = document.getElementById('chord_starting_borough_name');
+        const chartParam = document.getElementById('chart_param');
+
+        function updateChord() {
+            const year = yearSelect.value;
+            // first day of the year
+            const startDate = new Date(year, 0, 1);
+            // last day of the year
+            const endDate = new Date(year, 11, 31);
+            showLoadingChord();
+            constructChord(startDate, endDate).finally(hideLoadingChord)
+        }
+
+        function updateLineChart() {
+            const year = yearSelect.value;
+            const startingNeighbourId = chordStartingNeighbourIdDiv.value;
+            const endingNeighbourId = chordEndingNeighbourIdDiv.value;
+            const startingBoroughName = chordStartingBoroughNameDiv.value;
+            showLoadingDay();
+            plotDayData(year, startingNeighbourId, endingNeighbourId, startingBoroughName).finally(hideLoadingDay);
+        }
+
+        function updateRadialChart() {
+            const year = yearSelect.value;
+            const path_radial = '../data/traffic/monthly_volume/' + year + '_monthly.csv';
+            createRadialChart(path_radial);
+        }
+
+        function updateBarChart() {
+            createChart();
+            console.log("bar chart created")
+        }
+
+
+        async function updateCharts() {
+            updateLineChart();
+            updateChord();
+            updateMap();
+            updateRadialChart();
+            updateBarChart();
+        }
+
+        // update charts when year changes
+        yearSelect.addEventListener('change', updateCharts);
+        chartParam.addEventListener('change', updateLineChart);
+
+        // initial update
+        updateCharts();
+    </script>
+</body>
+
+
+<footer>
+    <div class="logo">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/1024px-Logo_EPFL.svg.png" alt="EPFL logo" width="100">
+    </div>
+    <div class="contact">
+        <p><a href="https://ch.linkedin.com/in/mehdi-mezghani-bb61661a2"> Mehdi MEZGHANI </a></p>
+        <p><a href="https://ch.linkedin.com/in/etiennebruno"> Etienne BRUNO </a></p>
+    </div>
+</footer>
+
+</html>

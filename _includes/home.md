@@ -1,0 +1,13 @@
+<h2>Welcome to our NYC Bikes Analysis</h2>
+
+<p style="text-align: justify;">
+Motivated by the passion for understanding urban transportation's intricacies, we have directed our efforts towards this project. The transport infrastructure of a city, we believe, is a reflection of its vitality and the quality of life it offers its residents. It is this understanding that motivates us to dig deeper into the dynamics of the city's bike system, a system that not only facilitates physical mobility but also embodies an ethos of environmental sustainability. <br><br>
+
+Our primary resource in this endeavor is the API of New York City's bike system. From this valuable tool, we have been creating and gathering a rich array of datasets. These datasets span from 2014 to 2020, presenting a seven-year window into the city's bike usage patterns. Complementing these datasets is additional traffic data from the same period, providing a broader picture of the city's transportation dynamics.<br><br>
+
+Our purpose in conducting this analysis is multifaceted. Firstly, we seek to understand the city's rhythm—how, when, and where its residents choose to bike and how this choice corresponds with traffic trends. Additionally, our analysis aims to support strategic planning, identifying potential bottlenecks, revealing opportunities for expansion, and informing policy decisions to create a more bike-friendly city.<br><br>
+
+There are numerous positive outcomes we foresee from this project. Primarily, we aspire to deliver a robust, data-driven understanding of New York City's bike usage, a resource that will be indispensable to urban planners, policymakers, and other stakeholders. Additionally, the insights gathered from our project could guide future city transportation policies, promoting a more sustainable urban mobility landscape. Lastly, by offering visually engaging representations of the data, we hope to foster an active dialogue among citizens, stakeholders, and policymakers about the future of the city's transportation.<br><br>
+
+In essence, our work is a stride towards a future where data and analytics guide our understanding and decisions about urban spaces. We envision a future where each journey on a city bike contributes to the efficient, sustainable, and healthier urban fabric. Join us as we unravel the fascinating story hidden within the data and together reshape our collective perception of New York City's bike system.<br><br>
+</p>

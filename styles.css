@@ -1,0 +1,105 @@
+body {
+    font-family:  Helvetica, Arial, sans-serif;
+}
+
+.titlePage {
+    background-color: #d1526eb6;
+    padding: 20px;
+    padding-top: 30px;
+    margin-left: 0px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 7px;
+    width: 175%;
+    box-sizing: border-box; 
+}
+
+
+#yearSelect,
+#chord_starting_neighbour_id,
+#chord_ending_neighbour_id,
+#chord_starting_borough_name {
+    font-size: 14px;
+    padding: 7px;
+    border: 1px solid #e2d7d7;
+    border-radius: 7px;
+    background-color: #e2d7d7;
+    text-align: left;
+}
+
+
+/* Map container styles */
+#map {
+    height: 500px;
+    width: 900px;
+    margin: var(--margin);
+}
+
+#loading-day,
+#loading-chord {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+}
+
+#loading-day img,
+#loading-chord img {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+}
+
+
+#tooltip,
+#tooltip_linechart {
+    position: static;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 5px 10px;
+    font: 12px sans-serif;
+    background: #f0f0f0;
+    border-radius: 5px;
+    border-radius: var(--radius);
+    pointer-events: none;
+    opacity: 0;
+    font-size: 13px;
+}
+
+#tooltip_radial {
+    position: static;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 5px 10px;
+    font: 12px sans-serif;
+    background: #f0f0f0;
+    border-radius: 5px;
+    border-radius: var(--radius);
+    pointer-events: none;
+    opacity: 0;
+    font-size: 13px;
+}
+
+#chord svg {
+    display: block;
+    margin: auto;
+    width: auto;
+}
+
+#chart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    width: 900px;
+}
+
+#radial-chart {
+    width: 100%;
+    height: 100%;
+}

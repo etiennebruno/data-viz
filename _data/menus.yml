@@ -1,0 +1,15 @@
+main:
+  - name: "Home"
+    url: "/"
+    weight: 2
+  - name: "Analysis"
+    url: "/analysis/"
+    weight: 3
+  - name: "Team"
+    url: "/team/"
+    weight: 4
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1

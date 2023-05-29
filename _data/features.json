@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Analysis",
+    "description": "We have compiled and analyzed a comprehensive dataset encompassing the six-year span from 2014 through to 2020.",
+    "image": {
+      "url": "images/features/calendar.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Data",
+    "description": "Enhancement of the analysis through the integration of key traffic data from New York City",
+    "image": {
+      "url": "images/features/database.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Visualization",
+    "description": "The data is visualized in a variety of ways usging D3.js and Leaflet.js to provide a comprehensive view of the bike patterns in New York City.",
+    "image": {
+      "url": "images/features/diagram.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

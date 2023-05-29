@@ -1,0 +1,492 @@
+name,borough,neighborhood,neighborhood_id,borough_id
+1 Ave & E 44 St,Manhattan,Turtle Bay-East Midtown,MN19,1.0
+2 Ave & E 58 St,Manhattan,Turtle Bay-East Midtown,MN19,1.0
+E 51 St & 1 Ave,Manhattan,Turtle Bay-East Midtown,MN19,1.0
+E 47 St & 2 Ave,Manhattan,Turtle Bay-East Midtown,MN19,1.0
+E 51 St & Lexington Ave,Manhattan,Turtle Bay-East Midtown,MN19,1.0
+E 52 St & 2 Ave,Manhattan,Turtle Bay-East Midtown,MN19,1.0
+E 47 St & Park Ave,Manhattan,Turtle Bay-East Midtown,MN19,1.0
+E 58 St & 3 Ave,Manhattan,Turtle Bay-East Midtown,MN19,1.0
+E 56 St & 3 Ave,Manhattan,Turtle Bay-East Midtown,MN19,1.0
+E 48 St & 3 Ave,Manhattan,Turtle Bay-East Midtown,MN19,1.0
+E 55 St & Lexington Ave,Manhattan,Turtle Bay-East Midtown,MN19,1.0
+FDR Drive & E 35 St,Manhattan,Turtle Bay-East Midtown,MN19,1.0
+E 43 St & 2 Ave,Manhattan,Turtle Bay-East Midtown,MN19,1.0
+E 55 St & 2 Ave,Manhattan,Turtle Bay-East Midtown,MN19,1.0
+E 45 St & 3 Ave,Manhattan,Turtle Bay-East Midtown,MN19,1.0
+E 53 St & Lexington Ave,Manhattan,Turtle Bay-East Midtown,MN19,1.0
+E 47 St & 1 Ave,Manhattan,Turtle Bay-East Midtown,MN19,1.0
+E 55 St & 3 Ave,Manhattan,Turtle Bay-East Midtown,MN19,1.0
+Stanton St & Chrystie St,Manhattan,Chinatown,MN27,1.0
+Allen St & Hester St,Manhattan,Chinatown,MN27,1.0
+Allen St & E Houston St,Manhattan,Chinatown,MN27,1.0
+Forsyth St & Canal St,Manhattan,Chinatown,MN27,1.0
+Pike St & E Broadway,Manhattan,Chinatown,MN27,1.0
+Forsyth St & Broome St,Manhattan,Chinatown,MN27,1.0
+St James Pl & Pearl St,Manhattan,Chinatown,MN27,1.0
+Rivington St & Chrystie St,Manhattan,Chinatown,MN27,1.0
+St James Pl & Oliver St,Manhattan,Chinatown,MN27,1.0
+Suffolk St & Stanton St,Manhattan,Chinatown,MN27,1.0
+Catherine St & Monroe St,Manhattan,Chinatown,MN27,1.0
+Allen St & Rivington St,Manhattan,Chinatown,MN27,1.0
+Division St & Bowery,Manhattan,Chinatown,MN27,1.0
+Norfolk St & Broome St,Manhattan,Chinatown,MN27,1.0
+Market St & Cherry St,Manhattan,Chinatown,MN27,1.0
+Bayard St & Baxter St,Manhattan,Chinatown,MN27,1.0
+9 Ave & W 18 St,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+W 15 St & 7 Ave,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+E 24 St & Park Ave S,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+W 29 St & 9 Ave,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+W 25 St & 6 Ave,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+9 Ave & W 22 St,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+W 26 St & 10 Ave,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+W 17 St & 8 Ave,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+W 18 St & 6 Ave,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+12 Ave & W 40 St,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+10 Ave & W 28 St,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+W 20 St & 8 Ave,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+W 20 St & 7 Ave,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+W 26 St & 8 Ave,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+8 Ave & W 31 St,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+W 16 St & The High Line,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+E 16 St & 5 Ave,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+Broadway & E 22 St,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+E 17 St & Broadway,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+9 Ave & W 16 St,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+W 34 St & 11 Ave,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+11 Ave & W 27 St,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+11 Ave & W 41 St,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+W 22 St & 10 Ave,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+W 24 St & 7 Ave,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+W 22 St & 8 Ave,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+W 37 St & 10 Ave,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+Broadway & W 24 St,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+W 21 St & 6 Ave,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+W 20 St & 11 Ave,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+8 Ave & W 33 St,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+Penn Station Valet,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+NYCBS Depot - FAR,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,1.0
+6 Ave & W 33 St,Manhattan,Midtown-Midtown South,MN17,1.0
+5 Ave & E 29 St,Manhattan,Midtown-Midtown South,MN17,1.0
+Broadway & W 32 St,Manhattan,Midtown-Midtown South,MN17,1.0
+W 37 St & 5 Ave,Manhattan,Midtown-Midtown South,MN17,1.0
+W 38 St & 8 Ave,Manhattan,Midtown-Midtown South,MN17,1.0
+W 56 St & 6 Ave,Manhattan,Midtown-Midtown South,MN17,1.0
+W 43 St & 6 Ave,Manhattan,Midtown-Midtown South,MN17,1.0
+Broadway & W 37 St,Manhattan,Midtown-Midtown South,MN17,1.0
+Grand Army Plaza & Central Park S,Manhattan,Midtown-Midtown South,MN17,1.0
+E 33 St & 5 Ave,Manhattan,Midtown-Midtown South,MN17,1.0
+W 27 St & 7 Ave,Manhattan,Midtown-Midtown South,MN17,1.0
+W 33 St & 7 Ave,Manhattan,Midtown-Midtown South,MN17,1.0
+E 43 St & Vanderbilt Ave,Manhattan,Midtown-Midtown South,MN17,1.0
+W 44 St & 5 Ave,Manhattan,Midtown-Midtown South,MN17,1.0
+E 48 St & Madison Ave,Manhattan,Midtown-Midtown South,MN17,1.0
+Broadway & W 29 St,Manhattan,Midtown-Midtown South,MN17,1.0
+W 31 St & 7 Ave,Manhattan,Midtown-Midtown South,MN17,1.0
+E 53 St & Madison Ave,Manhattan,Midtown-Midtown South,MN17,1.0
+W 52 St & 5 Ave,Manhattan,Midtown-Midtown South,MN17,1.0
+Broadway & W 58 St,Manhattan,Midtown-Midtown South,MN17,1.0
+Broadway & W 53 St,Manhattan,Midtown-Midtown South,MN17,1.0
+Broadway & W 36 St,Manhattan,Midtown-Midtown South,MN17,1.0
+Broadway & W 41 St,Manhattan,Midtown-Midtown South,MN17,1.0
+Broadway & W 55 St,Manhattan,Midtown-Midtown South,MN17,1.0
+W 41 St & 8 Ave,Manhattan,Midtown-Midtown South,MN17,1.0
+Broadway & W 49 St,Manhattan,Midtown-Midtown South,MN17,1.0
+W 45 St & 6 Ave,Manhattan,Midtown-Midtown South,MN17,1.0
+Broadway & W 51 St,Manhattan,Midtown-Midtown South,MN17,1.0
+Broadway & W 39 St,Manhattan,Midtown-Midtown South,MN17,1.0
+E 56 St & Madison Ave,Manhattan,Midtown-Midtown South,MN17,1.0
+W 51 St & 6 Ave,Manhattan,Midtown-Midtown South,MN17,1.0
+E 48 St & 5 Ave,Manhattan,Midtown-Midtown South,MN17,1.0
+Fulton St & Waverly Ave,Brooklyn,Clinton Hill,BK69,3.0
+Lafayette Ave & St James Pl,Brooklyn,Clinton Hill,BK69,3.0
+Willoughby Ave & Hall St,Brooklyn,Clinton Hill,BK69,3.0
+Lafayette Ave & Classon Ave,Brooklyn,Clinton Hill,BK69,3.0
+Clermont Ave & Lafayette Ave,Brooklyn,Clinton Hill,BK69,3.0
+Lefferts Pl & Franklin Ave,Brooklyn,Clinton Hill,BK69,3.0
+Washington Ave & Greene Ave,Brooklyn,Clinton Hill,BK69,3.0
+Emerson Pl & Myrtle Ave,Brooklyn,Clinton Hill,BK69,3.0
+Fulton St & Grand Ave,Brooklyn,Clinton Hill,BK69,3.0
+DeKalb Ave & Vanderbilt Ave,Brooklyn,Clinton Hill,BK69,3.0
+Hancock St & Bedford Ave,Brooklyn,Clinton Hill,BK69,3.0
+Monroe St & Classon Ave,Brooklyn,Clinton Hill,BK69,3.0
+Cambridge Pl & Gates Ave,Brooklyn,Clinton Hill,BK69,3.0
+E 7 St & Avenue A,Manhattan,East Village,MN22,1.0
+St Marks Pl & 1 Ave,Manhattan,East Village,MN22,1.0
+E 6 St & Avenue B,Manhattan,East Village,MN22,1.0
+St Marks Pl & 2 Ave,Manhattan,East Village,MN22,1.0
+E 13 St & Avenue A,Manhattan,East Village,MN22,1.0
+E 3 St & 1 Ave,Manhattan,East Village,MN22,1.0
+E 11 St & 1 Ave,Manhattan,East Village,MN22,1.0
+E 2 St & 2 Ave,Manhattan,East Village,MN22,1.0
+E 4 St & 2 Ave,Manhattan,East Village,MN22,1.0
+E 12 St & 3 Ave,Manhattan,East Village,MN22,1.0
+E 10 St & Avenue A,Manhattan,East Village,MN22,1.0
+E 2 St & Avenue B,Manhattan,East Village,MN22,1.0
+E 11 St & 2 Ave,Manhattan,East Village,MN22,1.0
+Shevchenko Pl & E 7 St,Manhattan,East Village,MN22,1.0
+Greenwich Ave & Charles St,Manhattan,West Village,MN23,1.0
+Washington St & Gansevoort St,Manhattan,West Village,MN23,1.0
+Broadway & E 14 St,Manhattan,West Village,MN23,1.0
+University Pl & E 14 St,Manhattan,West Village,MN23,1.0
+Greenwich Ave & 8 Ave,Manhattan,West Village,MN23,1.0
+9 Ave & W 14 St,Manhattan,West Village,MN23,1.0
+Lafayette St & E 8 St,Manhattan,West Village,MN23,1.0
+MacDougal St & Washington Sq,Manhattan,West Village,MN23,1.0
+Carmine St & 6 Ave,Manhattan,West Village,MN23,1.0
+Christopher St & Greenwich St,Manhattan,West Village,MN23,1.0
+Great Jones St,Manhattan,West Village,MN23,1.0
+Washington Pl & Broadway,Manhattan,West Village,MN23,1.0
+E 10 St & 5 Ave,Manhattan,West Village,MN23,1.0
+W 11 St & 6 Ave,Manhattan,West Village,MN23,1.0
+W 14 St & The High Line,Manhattan,West Village,MN23,1.0
+Barrow St & Hudson St,Manhattan,West Village,MN23,1.0
+LaGuardia Pl & W 3 St,Manhattan,West Village,MN23,1.0
+W 4 St & 7 Ave S,Manhattan,West Village,MN23,1.0
+Washington Pl & 6 Ave,Manhattan,West Village,MN23,1.0
+Bank St & Hudson St,Manhattan,West Village,MN23,1.0
+W 13 St & 6 Ave,Manhattan,West Village,MN23,1.0
+Mercer St & Bleecker St,Manhattan,West Village,MN23,1.0
+W 13 St & 7 Ave,Manhattan,West Village,MN23,1.0
+Sullivan St & Washington Sq,Manhattan,West Village,MN23,1.0
+Washington Square E,Manhattan,West Village,MN23,1.0
+Perry St & Bleecker St,Manhattan,West Village,MN23,1.0
+Bank St & Washington St,Manhattan,West Village,MN23,1.0
+E 11 St & Broadway,Manhattan,West Village,MN23,1.0
+W 13 St & 5 Ave,Manhattan,West Village,MN23,1.0
+W 13 St & Hudson St,Manhattan,West Village,MN23,1.0
+E 25 St & 1 Ave,Manhattan,Murray Hill-Kips Bay,MN20,1.0
+E 37 St & Lexington Ave,Manhattan,Murray Hill-Kips Bay,MN20,1.0
+Pershing Square South,Manhattan,Murray Hill-Kips Bay,MN20,1.0
+E 25 St & 2 Ave,Manhattan,Murray Hill-Kips Bay,MN20,1.0
+E 27 St & 1 Ave,Manhattan,Murray Hill-Kips Bay,MN20,1.0
+E 31 St & 3 Ave,Manhattan,Murray Hill-Kips Bay,MN20,1.0
+E 39 St & 2 Ave,Manhattan,Murray Hill-Kips Bay,MN20,1.0
+1 Ave & E 30 St,Manhattan,Murray Hill-Kips Bay,MN20,1.0
+Pershing Square North,Manhattan,Murray Hill-Kips Bay,MN20,1.0
+E 40 St & 5 Ave,Manhattan,Murray Hill-Kips Bay,MN20,1.0
+2 Ave & E 31 St,Manhattan,Murray Hill-Kips Bay,MN20,1.0
+E 32 St & Park Ave,Manhattan,Murray Hill-Kips Bay,MN20,1.0
+E 33 St & 2 Ave,Manhattan,Murray Hill-Kips Bay,MN20,1.0
+E 39 St & 3 Ave,Manhattan,Murray Hill-Kips Bay,MN20,1.0
+E 30 St & Park Ave S,Manhattan,Murray Hill-Kips Bay,MN20,1.0
+E 41 St & Madison Ave,Manhattan,Murray Hill-Kips Bay,MN20,1.0
+E 40 St & Madison Ave,Manhattan,Murray Hill-Kips Bay,MN20,1.0
+W 49 St & 8 Ave,Manhattan,Clinton,MN15,1.0
+W 39 St & 9 Ave,Manhattan,Clinton,MN15,1.0
+W 52 St & 9 Ave,Manhattan,Clinton,MN15,1.0
+W 56 St & 10 Ave,Manhattan,Clinton,MN15,1.0
+W 47 St & 10 Ave,Manhattan,Clinton,MN15,1.0
+W 43 St & 10 Ave,Manhattan,Clinton,MN15,1.0
+W 53 St & 10 Ave,Manhattan,Clinton,MN15,1.0
+9 Ave & W 45 St,Manhattan,Clinton,MN15,1.0
+W 45 St & 8 Ave,Manhattan,Clinton,MN15,1.0
+W 46 St & 11 Ave,Manhattan,Clinton,MN15,1.0
+W 52 St & 11 Ave,Manhattan,Clinton,MN15,1.0
+W 42 St & 8 Ave,Manhattan,Clinton,MN15,1.0
+W 54 St & 9 Ave,Manhattan,Clinton,MN15,1.0
+8 Ave & W 52 St,Manhattan,Clinton,MN15,1.0
+NYCBS Depot - DYR,Manhattan,Clinton,MN15,1.0
+PABT Valet,Manhattan,Clinton,MN15,1.0
+Madison St & Montgomery St,Manhattan,Lower East Side,MN28,1.0
+E 2 St & Avenue C,Manhattan,Lower East Side,MN28,1.0
+E 9 St & Avenue C,Manhattan,Lower East Side,MN28,1.0
+Henry St & Grand St,Manhattan,Lower East Side,MN28,1.0
+Stanton St & Mangin St,Manhattan,Lower East Side,MN28,1.0
+Clinton St & Grand St,Manhattan,Lower East Side,MN28,1.0
+Pike St & Monroe St,Manhattan,Lower East Side,MN28,1.0
+Columbia St & Rivington St,Manhattan,Lower East Side,MN28,1.0
+Avenue D & E 8 St,Manhattan,Lower East Side,MN28,1.0
+Avenue D & E 3 St,Manhattan,Lower East Side,MN28,1.0
+Canal St & Rutgers St,Manhattan,Lower East Side,MN28,1.0
+E 5 St & Avenue C,Manhattan,Lower East Side,MN28,1.0
+Avenue D & E 12 St,Manhattan,Lower East Side,MN28,1.0
+Madison St & Clinton St,Manhattan,Lower East Side,MN28,1.0
+E 6 St & Avenue D,Manhattan,Lower East Side,MN28,1.0
+Rivington St & Ridge St,Manhattan,Lower East Side,MN28,1.0
+Bialystoker Pl & Delancey St,Manhattan,Lower East Side,MN28,1.0
+Cherry St,Manhattan,Lower East Side,MN28,1.0
+Pitt St & Stanton St,Manhattan,Lower East Side,MN28,1.0
+NYCBS Depot - DEL,Manhattan,Lower East Side,MN28,1.0
+Cleveland Pl & Spring St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Mott St & Prince St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Hudson St & Reade St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Grand St & Greene St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Centre St & Worth St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Lafayette St & Jersey St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+MacDougal St & Prince St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Greenwich St & Warren St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Centre St & Chambers St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+6 Ave & Broome St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+W Broadway & Spring St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Howard St & Centre St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Elizabeth St & Hester St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Leonard St & Church St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Watts St & Greenwich St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+W Houston St & Hudson St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Lispenard St & Broadway,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Warren St & Church St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Barclay St & Church St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Greenwich St & N Moore St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Franklin St & W Broadway,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Mercer St & Spring St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Harrison St & Hudson St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+6 Ave & Canal St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Duane St & Greenwich St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Murray St & West St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Laight St & Hudson St,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Reade St & Broadway,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,MN24,1.0
+Lexington Ave & E 26 St,Manhattan,Gramercy,MN21,1.0
+E 19 St & 3 Ave,Manhattan,Gramercy,MN21,1.0
+E 20 St & Park Ave,Manhattan,Gramercy,MN21,1.0
+E 15 St & 3 Ave,Manhattan,Gramercy,MN21,1.0
+E 20 St & 2 Ave,Manhattan,Gramercy,MN21,1.0
+Lexington Ave & E 24 St,Manhattan,Gramercy,MN21,1.0
+E 16 St & Irving Pl,Manhattan,Gramercy,MN21,1.0
+William St & Pine St,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+South End Ave & Liberty St,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+Vesey Pl & River Terrace,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+West St & Chambers St,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+John St & William St,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+Pearl St & Hanover Square,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+Broadway & Battery Pl,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+South St & Whitehall St,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+Front St & Maiden Ln,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+Peck Slip & Front St,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+Maiden Ln & Pearl St,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+Little West St & 1 Pl,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+Broad St & Bridge St,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+Fulton St & William St,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+Water - Whitehall Plaza,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+Bus Slip & State St,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+Liberty St & Broadway,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+Cliff St & Fulton St,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+South St & Gouverneur Ln,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+West Thames St,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+Old Slip & Front St,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+Spruce St & Nassau St,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+Fulton St & Broadway,Manhattan,Battery Park City-Lower Manhattan,MN25,1.0
+Clark St & Henry St,Brooklyn,Brooklyn Heights-Cobble Hill,BK09,3.0
+Hicks St & Montague St,Brooklyn,Brooklyn Heights-Cobble Hill,BK09,3.0
+Henry St & Atlantic Ave,Brooklyn,Brooklyn Heights-Cobble Hill,BK09,3.0
+Clinton St & Joralemon St,Brooklyn,Brooklyn Heights-Cobble Hill,BK09,3.0
+Henry St & Poplar St,Brooklyn,Brooklyn Heights-Cobble Hill,BK09,3.0
+Cadman Plaza West & Montague St,Brooklyn,Brooklyn Heights-Cobble Hill,BK09,3.0
+Columbia Heights & Cranberry St,Brooklyn,Brooklyn Heights-Cobble Hill,BK09,3.0
+Clinton St & Tillary St,Brooklyn,Brooklyn Heights-Cobble Hill,BK09,3.0
+Brooklyn Bridge Park - Pier 2,Brooklyn,Brooklyn Heights-Cobble Hill,BK09,3.0
+Schermerhorn St & Court St,Brooklyn,Brooklyn Heights-Cobble Hill,BK09,3.0
+Old Fulton St,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+Cadman Plaza E & Red Cross Pl,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+Bond St & Schermerhorn St,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+Jay St & Tech Pl,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+Johnson St & Gold St,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+State St & Smith St,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+Lawrence St & Willoughby St,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+Joralemon St & Adams St,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+Cadman Plaza E & Tillary St,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+3 Ave & Schermerhorn St,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+York St & Jay St,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+Nassau St & Navy St,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+Gallatin Pl & Livingston St,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+Concord St & Bridge St,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+Pearl St & Anchorage Pl,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+Front St & Washington St,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+Duffield St & Willoughby St,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+Front St & Gold St,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+Hanover Pl & Livingston St,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+Bond St & Fulton St,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,3.0
+Washington Ave & Park Ave,Brooklyn,park-cemetery-etc-Brooklyn,BK99,3.0
+Sands St & Navy St,Brooklyn,park-cemetery-etc-Brooklyn,BK99,3.0
+Clinton Ave & Flushing Ave,Brooklyn,park-cemetery-etc-Brooklyn,BK99,3.0
+Railroad Ave & Kay Ave,Brooklyn,park-cemetery-etc-Brooklyn,BK99,3.0
+Fulton St & Rockwell Pl,Brooklyn,Fort Greene,BK68,3.0
+Adelphi St & Myrtle Ave,Brooklyn,Fort Greene,BK68,3.0
+Cumberland St & Lafayette Ave,Brooklyn,Fort Greene,BK68,3.0
+Ashland Pl & Hanson Pl,Brooklyn,Fort Greene,BK68,3.0
+S Portland Ave & Hanson Pl,Brooklyn,Fort Greene,BK68,3.0
+Lafayette Ave & Fort Greene Pl,Brooklyn,Fort Greene,BK68,3.0
+DeKalb Ave & Hudson Ave,Brooklyn,Fort Greene,BK68,3.0
+Clinton Ave & Myrtle Ave,Brooklyn,Fort Greene,BK68,3.0
+Atlantic Ave & Fort Greene Pl,Brooklyn,Fort Greene,BK68,3.0
+Carlton Ave & Park Ave,Brooklyn,Fort Greene,BK68,3.0
+Myrtle Ave & St Edwards St,Brooklyn,Fort Greene,BK68,3.0
+Willoughby St & Fleet St,Brooklyn,Fort Greene,BK68,3.0
+Park Ave & St Edwards St,Brooklyn,Fort Greene,BK68,3.0
+Washington Park,Brooklyn,Fort Greene,BK68,3.0
+Fulton St & Clermont Ave,Brooklyn,Fort Greene,BK68,3.0
+DeKalb Ave & S Portland Ave,Brooklyn,Fort Greene,BK68,3.0
+Flushing Ave & Carlton Ave,Brooklyn,Fort Greene,BK68,3.0
+Clermont Ave & Park Ave,Brooklyn,Fort Greene,BK68,3.0
+Hanson Pl & St Felix St,Brooklyn,Fort Greene,BK68,3.0
+W 59 St & 10 Ave,Manhattan,Lincoln Square,MN14,1.0
+Broadway & W 60 St,Manhattan,Lincoln Square,MN14,1.0
+11 Ave & W 59 St,Manhattan,Lincoln Square,MN14,1.0
+Columbus Ave & W 72 St,Manhattan,Lincoln Square,MN14,1.0
+W 63 St & Broadway,Manhattan,Lincoln Square,MN14,1.0
+W 64 St & West End Ave,Manhattan,Lincoln Square,MN14,1.0
+W 67 St & Broadway,Manhattan,Lincoln Square,MN14,1.0
+W 70 St & Amsterdam Ave,Manhattan,Lincoln Square,MN14,1.0
+W 74 St & Columbus Ave,Manhattan,Lincoln Square,MN14,1.0
+Amsterdam Ave & W 73 St,Manhattan,Lincoln Square,MN14,1.0
+Riverside Blvd & W 67 St,Manhattan,Lincoln Square,MN14,1.0
+Kent Ave & S 11 St,Brooklyn,North Side-South Side,BK73,3.0
+Broadway & Berry St,Brooklyn,North Side-South Side,BK73,3.0
+S 3 St & Bedford Ave,Brooklyn,North Side-South Side,BK73,3.0
+S 5 Pl & S 4 St,Brooklyn,North Side-South Side,BK73,3.0
+Metropolitan Ave & Bedford Ave,Brooklyn,North Side-South Side,BK73,3.0
+Grand St & Havemeyer St,Brooklyn,North Side-South Side,BK73,3.0
+S 4 St & Wythe Ave,Brooklyn,North Side-South Side,BK73,3.0
+Bedford Ave & S 9th St,Brooklyn,North Side-South Side,BK73,3.0
+Wythe Ave & Metropolitan Ave,Brooklyn,North Side-South Side,BK73,3.0
+E.T. Bike-In Movie Valet Station ,Brooklyn,North Side-South Side,BK73,3.0
+Leonard St & Bayard St,Brooklyn,North Side-South Side,BK73,3.0
+Bedford Ave & Nassau Ave,Brooklyn,North Side-South Side,BK73,3.0
+Driggs Ave & Lorimer St,Brooklyn,North Side-South Side,BK73,3.0
+N 12 St & Bedford Ave,Brooklyn,North Side-South Side,BK73,3.0
+N 11 St & Wythe Ave,Brooklyn,North Side-South Side,BK73,3.0
+Berry St & N 8 St,Brooklyn,North Side-South Side,BK73,3.0
+Union Ave & Jackson St,Brooklyn,North Side-South Side,BK73,3.0
+Kent Ave & N 7 St,Brooklyn,North Side-South Side,BK73,3.0
+N 8 St & Driggs Ave,Brooklyn,North Side-South Side,BK73,3.0
+Frost St & Meeker St,Brooklyn,North Side-South Side,BK73,3.0
+Stagg St & Union Ave,Brooklyn,North Side-South Side,BK73,3.0
+N 6 St & Bedford Ave,Brooklyn,North Side-South Side,BK73,3.0
+Hope St & Union Ave,Brooklyn,North Side-South Side,BK73,3.0
+Roebling St & N 4 St,Brooklyn,North Side-South Side,BK73,3.0
+S 4 St & Rodney St,Brooklyn,North Side-South Side,BK73,3.0
+Leonard St & Manhattan Ave,Brooklyn,North Side-South Side,BK73,3.0
+Union Ave & N 12 St,Brooklyn,North Side-South Side,BK73,3.0
+Broadway & Roebling St,Brooklyn,North Side-South Side,BK73,3.0
+E 23 St & 1 Ave,Manhattan,Stuyvesant Town-Cooper Village,MN50,1.0
+1 Ave & E 18 St,Manhattan,Stuyvesant Town-Cooper Village,MN50,1.0
+E 14 St & Avenue B,Manhattan,Stuyvesant Town-Cooper Village,MN50,1.0
+1 Ave & E 15 St,Manhattan,Stuyvesant Town-Cooper Village,MN50,1.0
+E 20 St & FDR Drive,Manhattan,Stuyvesant Town-Cooper Village,MN50,1.0
+NYCBS Depot - STY,Manhattan,Stuyvesant Town-Cooper Village,MN50,1.0
+Macon St & Nostrand Ave,Brooklyn,Bedford,BK75,3.0
+Lexington Ave & Classon Ave,Brooklyn,Bedford,BK75,3.0
+Monroe St & Bedford Ave,Brooklyn,Bedford,BK75,3.0
+Willoughby Ave & Walworth St,Brooklyn,Bedford,BK75,3.0
+Franklin Ave & Myrtle Ave,Brooklyn,Bedford,BK75,3.0
+DeKalb Ave & Skillman St,Brooklyn,Bedford,BK75,3.0
+Union Ave & Wallabout St,Brooklyn,Bedford,BK75,3.0
+Broadway & Whipple St,Brooklyn,Bedford,BK75,3.0
+Willoughby Ave & Tompkins Ave,Brooklyn,Bedford,BK75,3.0
+Tompkins Ave & Hopkins St,Brooklyn,Bedford,BK75,3.0
+Myrtle Ave & Marcy Ave,Brooklyn,Bedford,BK75,3.0
+Nostrand Ave & Myrtle Ave,Brooklyn,Bedford,BK75,3.0
+Throop Ave & Myrtle Ave,Brooklyn,Bedford,BK75,3.0
+Greene Ave & Nostrand Ave,Brooklyn,Bedford,BK75,3.0
+Marcy Ave & Lafayette Ave,Brooklyn,Bedford,BK75,3.0
+Kosciuszko St & Tompkins Ave,Brooklyn,Bedford,BK75,3.0
+Kosciuszko St & Nostrand Ave,Brooklyn,Bedford,BK75,3.0
+Putnam Ave & Nostrand Ave,Brooklyn,Bedford,BK75,3.0
+Halsey St & Tompkins Ave,Brooklyn,Bedford,BK75,3.0
+Marcy Ave & MacDonough St,Brooklyn,Bedford,BK75,3.0
+Monroe St & Tompkins Ave,Brooklyn,Bedford,BK75,3.0
+Dean St & 4 Ave,Brooklyn,Park Slope-Gowanus,BK37,3.0
+Central Park S & 6 Ave,Manhattan,park-cemetery-etc-Manhattan,MN99,1.0
+Soissons Landing,Manhattan,park-cemetery-etc-Manhattan,MN99,1.0
+Yankee Ferry Terminal,Manhattan,park-cemetery-etc-Manhattan,MN99,1.0
+Central Park West & W 72 St,Manhattan,park-cemetery-etc-Manhattan,MN99,1.0
+Central Park West & W 68 St,Manhattan,park-cemetery-etc-Manhattan,MN99,1.0
+Central Park West & W 76 St,Manhattan,park-cemetery-etc-Manhattan,MN99,1.0
+5 Ave & E 63 St,Manhattan,park-cemetery-etc-Manhattan,MN99,1.0
+5 Ave & E 73 St,Manhattan,park-cemetery-etc-Manhattan,MN99,1.0
+Central Park West & W 85 St,Manhattan,park-cemetery-etc-Manhattan,MN99,1.0
+5 Ave & E 78 St,Manhattan,park-cemetery-etc-Manhattan,MN99,1.0
+Atlantic Ave & Furman St,Brooklyn,Carroll Gardens-Columbia Street-Red Hook,BK33,3.0
+E 59 St & Sutton Pl,Manhattan,Lenox Hill-Roosevelt Island,MN31,1.0
+1 Ave & E 62 St,Manhattan,Lenox Hill-Roosevelt Island,MN31,1.0
+3 Ave & E 62 St,Manhattan,Lenox Hill-Roosevelt Island,MN31,1.0
+1 Ave & E 68 St,Manhattan,Lenox Hill-Roosevelt Island,MN31,1.0
+E 72 St & York Ave,Manhattan,Lenox Hill-Roosevelt Island,MN31,1.0
+E 75 St & 3 Ave,Manhattan,Lenox Hill-Roosevelt Island,MN31,1.0
+1 Ave & E 78 St,Manhattan,Lenox Hill-Roosevelt Island,MN31,1.0
+E 71 St & 2 Ave,Manhattan,Lenox Hill-Roosevelt Island,MN31,1.0
+NYCBS Depot - SSP,Brooklyn,Sunset Park West,BK32,3.0
+Mobile 01,Manhattan,Upper East Side-Carnegie Hill,MN40,1.0
+E 67 St & Park Ave,Manhattan,Upper East Side-Carnegie Hill,MN40,1.0
+E 59 St & Madison Ave,Manhattan,Upper East Side-Carnegie Hill,MN40,1.0
+E 72 St & Park Ave,Manhattan,Upper East Side-Carnegie Hill,MN40,1.0
+E 81 St & Park Ave,Manhattan,Upper East Side-Carnegie Hill,MN40,1.0
+E 81 St & 3 Ave,Manhattan,Upper East Side-Carnegie Hill,MN40,1.0
+E 84 St & Park Ave,Manhattan,Upper East Side-Carnegie Hill,MN40,1.0
+Lexington Ave & E 63 St,Manhattan,Upper East Side-Carnegie Hill,MN40,1.0
+E 77 St & 3 Ave,Manhattan,Upper East Side-Carnegie Hill,MN40,1.0
+E 77 St & Park Ave,Manhattan,Upper East Side-Carnegie Hill,MN40,1.0
+Center Blvd & Borden Ave,Queens,Hunters Point-Sunnyside-West Maspeth,QN31,4.0
+45 Rd & 11 St,Queens,Hunters Point-Sunnyside-West Maspeth,QN31,4.0
+44 Dr & Jackson Ave,Queens,Hunters Point-Sunnyside-West Maspeth,QN31,4.0
+Jackson Ave & 46 Rd,Queens,Hunters Point-Sunnyside-West Maspeth,QN31,4.0
+46 Ave & 5 St,Queens,Hunters Point-Sunnyside-West Maspeth,QN31,4.0
+Vernon Blvd & 50 Ave,Queens,Hunters Point-Sunnyside-West Maspeth,QN31,4.0
+9 St & 44 Rd,Queens,Hunters Point-Sunnyside-West Maspeth,QN31,4.0
+31 St & Thomson Ave,Queens,Hunters Point-Sunnyside-West Maspeth,QN31,4.0
+21 St & 43 Ave,Queens,Hunters Point-Sunnyside-West Maspeth,QN31,4.0
+47 Ave & 31 St,Queens,Hunters Point-Sunnyside-West Maspeth,QN31,4.0
+48 Ave & 5 St,Queens,Hunters Point-Sunnyside-West Maspeth,QN31,4.0
+21 St & Queens Plaza North,Queens,Queensbridge-Ravenswood-Long Island City,QN68,4.0
+Queens Plaza North & Crescent St,Queens,Queensbridge-Ravenswood-Long Island City,QN68,4.0
+21 St & 41 Ave,Queens,Queensbridge-Ravenswood-Long Island City,QN68,4.0
+Greenpoint Ave & Manhattan Ave,Brooklyn,Greenpoint,BK76,3.0
+Franklin St & Dupont St,Brooklyn,Greenpoint,BK76,3.0
+McGuinness Blvd & Eagle St,Brooklyn,Greenpoint,BK76,3.0
+Nassau Ave & Russell St,Brooklyn,Greenpoint,BK76,3.0
+Milton St & Franklin St,Brooklyn,Greenpoint,BK76,3.0
+India St & Manhattan Ave,Brooklyn,Greenpoint,BK76,3.0
+Norman Ave & Leonard St,Brooklyn,Greenpoint,BK76,3.0
+Banker St & Meserole Ave,Brooklyn,Greenpoint,BK76,3.0
+Meserole Ave & Manhattan Ave,Brooklyn,Greenpoint,BK76,3.0
+Driggs Ave & N Henry St,Brooklyn,Greenpoint,BK76,3.0
+India St & East River,Brooklyn,Greenpoint,BK76,3.0
+N 15 St & Wythe Ave,Brooklyn,Greenpoint,BK76,3.0
+Huron St & Franklin St,Brooklyn,Greenpoint,BK76,3.0
+Humboldt St & Varet St,Brooklyn,Bushwick South,BK78,3.0
+Montrose Ave & Bushwick Ave,Brooklyn,Bushwick South,BK78,3.0
+Park Ave & Marcus Garvey Blvd,Brooklyn,Bushwick South,BK78,3.0
+Fulton St & Utica Ave,Brooklyn,Crown Heights North,BK61,3.0
+Kingston Ave & Herkimer St,Brooklyn,Crown Heights North,BK61,3.0
+Metropolitan Ave & Meeker Ave,Brooklyn,East Williamsburg,BK90,3.0
+Graham Ave & Herbert St,Brooklyn,East Williamsburg,BK90,3.0
+Graham Ave & Withers St,Brooklyn,East Williamsburg,BK90,3.0
+Devoe St & Leonard St,Brooklyn,East Williamsburg,BK90,3.0
+N Henry St & Richardson St,Brooklyn,East Williamsburg,BK90,3.0
+Graham Ave & Grand St,Brooklyn,East Williamsburg,BK90,3.0
+Bushwick Ave & Powers St,Brooklyn,East Williamsburg,BK90,3.0
+Leonard St & Grand St,Brooklyn,East Williamsburg,BK90,3.0
+Scholes St & Manhattan Ave,Brooklyn,East Williamsburg,BK90,3.0
+Boerum St & Broadway,Brooklyn,East Williamsburg,BK90,3.0
+McKibbin St & Manhattan Ave,Brooklyn,East Williamsburg,BK90,3.0
+Leonard St & Boerum St,Brooklyn,East Williamsburg,BK90,3.0
+Graham Ave & Conselyea St,Brooklyn,East Williamsburg,BK90,3.0
+Leonard St & Meeker Ave,Brooklyn,East Williamsburg,BK90,3.0
+Division Ave & Hooper St,Brooklyn,Williamsburg,BK72,3.0
+Division Ave & Marcy Ave,Brooklyn,Williamsburg,BK72,3.0
+Lorimer St & Broadway,Brooklyn,Williamsburg,BK72,3.0
+Myrtle Ave & Lewis Ave,Brooklyn,Stuyvesant Heights,BK35,3.0
+Pulaski St & Marcus Garvey Blvd,Brooklyn,Stuyvesant Heights,BK35,3.0
+Greene Ave & Throop Ave,Brooklyn,Stuyvesant Heights,BK35,3.0
+Lewis Ave & Madison St,Brooklyn,Stuyvesant Heights,BK35,3.0
+Putnam Ave & Throop Ave,Brooklyn,Stuyvesant Heights,BK35,3.0
+Lewis Ave & Kosciuszko St,Brooklyn,Stuyvesant Heights,BK35,3.0
+Marcus Garvey Blvd & Macon St,Brooklyn,Stuyvesant Heights,BK35,3.0
+Lewis Ave & Decatur St,Brooklyn,Stuyvesant Heights,BK35,3.0
+Albany Ave & Fulton St,Brooklyn,Stuyvesant Heights,BK35,3.0
+Riverside Dr & W 78 St,Manhattan,Upper West Side,MN12,1.0
+W 84 St & Columbus Ave,Manhattan,Upper West Side,MN12,1.0
+Riverside Dr & W 82 St,Manhattan,Upper West Side,MN12,1.0
+W 84 St & Broadway,Manhattan,Upper West Side,MN12,1.0
+Riverside Dr & W 72 St ,Manhattan,Upper West Side,MN12,1.0
+W 82 St & Central Park West,Manhattan,Upper West Side,MN12,1.0
+W 76 St & Columbus Ave,Manhattan,Upper West Side,MN12,1.0
+W 78 St & Broadway,Manhattan,Upper West Side,MN12,1.0
+Amsterdam Ave & W 82 St,Manhattan,Upper West Side,MN12,1.0
+E 82 St & 2 Ave,Manhattan,Yorkville,MN32,1.0
+E 85 St & 3 Ave,Manhattan,Yorkville,MN32,1.0
+E 85 St & York Ave,Manhattan,Yorkville,MN32,1.0
+E 84 St & 1 Ave,Manhattan,Yorkville,MN32,1.0
+East End Ave & E 86 St,Manhattan,Yorkville,MN32,1.0
+E 81 St & York Ave,Manhattan,Yorkville,MN32,1.0
+E 80 St & 2 Ave,Manhattan,Yorkville,MN32,1.0
