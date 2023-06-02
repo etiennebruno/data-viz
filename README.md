@@ -39,15 +39,18 @@ The outcomes we foresee from this project are multifold and impactful:
 We believe that data and analytics have the power to transform our understanding and decisions about urban spaces. Through this project, we aspire to take a stride towards a future where each journey on a city bike is a thread woven into the fabric of an efficient, sustainable, and healthier city life. Join us as we unravel the fascinating story hidden within the data and together, let's reshape our collective perception of New York City's bike system.
 
 
-<br>
-<br>
+<br><br>
+---
 
-# Getting Started
+# Getting Started with the website
 
 This section will guide you through the necessary steps to clone this repository, setup the environment, and finally run the Jekyll website locally.
 
-## Prerequisites
+## Link
+A partial version of our website is currently hosted on GitHub Pages. You can access it [here](https://etiennebruno.github.io/data-viz/).
+Howwver due to the size of our data, the website is not fully functional. To run the website locally, please follow the instructions below.
 
+## Prerequisites
 You will need the following installed on your system:
 
 1. Git
@@ -63,26 +66,18 @@ For detailed instructions on installing these prerequisites, you can visit the f
 - [Jekyll installation guide](https://jekyllrb.com/docs/installation/)
 
 ## Cloning the Repository
-
 Once the prerequisites are installed, clone the repository by opening a terminal and executing the following command:
 
 ```shell
-git clone https://github.com/com-480-data-visualization/project-2023-grande-envergure
+git clone https://github.com/etiennebruno/data-viz.git
 ```
 
-## Checking out the Git LFS Files
+## Checking out the large files
+This repository uses large csv files. You need to downlaod the `data` folder from [HERE](https://drive.google.com/drive/folders/1Wgq6Vmx8lvdl3c3LhFf22dk4eZuvddUE?usp=sharing) and put it in the `webapp` folder and it should be named `data`.
 
-This repository uses Git Large File Storage (LFS) for managing datasets. After cloning the repository, ensure you have the correct files by using the following commands:
-
-```shell
-cd project-2023-grande-envergure
-git lfs install
-git lfs pull
-````
 
 ## Installing Dependencies
-Navigate into the project directory and install the necessary Ruby Gems using Bundler:
-  
+Navigate into the project directory and install the necessary Ruby Gems using Bundler:  
   ```shell
   bundle install
   ```
@@ -98,3 +93,12 @@ http://localhost:4000
 ```
 
 You should be able to see the Jekyll website running locally.
+
+You should be able to visualize the website with all the graphs and maps. Using the first dropdown menu, you can select the year that will reload all visualisations.
+
+Once you are done, you can stop the Jekyll server by pressing `Ctrl+C` in the terminal.
+
+## Late policy
+- < 24h: 80% of the grade for the milestone
+- < 48h: 70% of the grade for the milestone
+

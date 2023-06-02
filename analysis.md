@@ -19,7 +19,7 @@ bodyClass: page-about¨¨¨
 <!-- YEAR SELECTION -->
   <body>
   <p style="text-align: justify;">
-  Select the year to update the graph below:
+  Select the year to update the graphs below:
   </p>
     <div id="controls">
       <label for="yearSelect">Year:</label>
