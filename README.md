@@ -1,4 +1,69 @@
-# EPFL COM-480 - New York Citi Bike Analysis
+# New York Citi Bikes Analysis
+
+| Student's name | SCIPER |
+| -------------- | ------ |
+| Mehdi Mezghani|  312593|
+| Etienne Paul Léon Bruno|282508 |
+| | |
+
+[Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
+
+---
+<a name="milestone-1"></a>
+# Milestone 1 (7th April, 5pm)
+
+**10% of the final grade**
+
+This is a preliminary milestone to let you set up goals for your final project and assess the feasibility of your ideas.
+Please, fill the following sections about your project.
+
+*(max. 2000 characters per section)*
+
+### Dataset
+
+> Find a dataset (or multiple) that you will explore. Assess the quality of the data it contains and how much preprocessing / data-cleaning it will require before tackling visualization. We recommend using a standard dataset as this course is not about scraping nor data processing.
+>
+> Hint: some good pointers for finding quality publicly available datasets ([Google dataset search](https://datasetsearch.research.google.com/), [Kaggle](https://www.kaggle.com/datasets), [OpenSwissData](https://opendata.swiss/en/), [SNAP](https://snap.stanford.edu/data/) and [FiveThirtyEight](https://data.fivethirtyeight.com/)), you could use also the DataSets proposed by the ENAC (see the Announcements section on Zulip).
+
+### Problematic
+
+> Frame the general topic of your visualization and the main axis that you want to develop.
+> - What am I trying to show with my visualization?
+> - Think of an overview for the project, your motivation, and the target audience.
+
+### Exploratory Data Analysis
+
+> Pre-processing of the data set you chose
+> - Show some basic statistics and get insights about the data
+
+### Related work
+
+
+> - What others have already done with the data?
+> - Why is your approach original?
+> - What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
+> - In case you are using a dataset that you have already explored in another context (ML or ADA course, semester project...), you are required to share the report of that work to outline the differences with the submission for this class.
+
+<br><br>
+---
+<a name="milestone-2"></a>
+# Milestone 2 (7th May, 5pm)
+
+**10% of the final grade**
+
+You can find under the folder `milestone2` the report of our milestone 2 in  pdf. Inside this pdf you will find the description of our project, the data we used, some static extracts of our interactive visualization.
+
+To run our wesbite, you should clone our repository and run a local server for the folder `webapp`. Then, open the `index.html` file in your browser. 
+
+As our visualization is interactive and requires a lot of data, we have included the `data` folder on Google Drive. You can find it [HERE](https://drive.google.com/drive/folders/1Wgq6Vmx8lvdl3c3LhFf22dk4eZuvddUE?usp=sharing). You should download it and put it in the `webapp` folder and it should be named `data`.
+
+<br><br>
+---
+<a name="milestone-3"></a>
+# Milestone 3 (4th June, 5pm)
+
+**80% of the final grade**
+
 
 ## Introduction
 
@@ -69,11 +134,11 @@ For detailed instructions on installing these prerequisites, you can visit the f
 Once the prerequisites are installed, clone the repository by opening a terminal and executing the following command:
 
 ```shell
-git clone https://github.com/etiennebruno/data-viz.git
+git clone https://github.com/com-480-data-visualization/project-2023-grande-envergure.git
 ```
 
 ## Checking out the large files
-This repository uses large csv files. You need to downlaod the `data` folder from [HERE](https://drive.google.com/drive/folders/1Wgq6Vmx8lvdl3c3LhFf22dk4eZuvddUE?usp=sharing) and put it in the `webapp` folder and it should be named `data`.
+This repository uses large csv files. You need to downlaod the `data` folder from [HERE](https://drive.google.com/drive/folders/1Wgq6Vmx8lvdl3c3LhFf22dk4eZuvddUE?usp=sharing) and put it in the `website` folder and it should be named `data`.
 
 
 ## Installing Dependencies
